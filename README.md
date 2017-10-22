@@ -1,2 +1,5 @@
-# codefire
-A node module
+# CodeFire
+CodeFire is a node package...
+
+# Installation
+npm install codefire
