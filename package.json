@@ -1,6 +1,6 @@
 {
   "name": "codefire",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A Node Module",
   "main": "codefire.js",
   "scripts": {
