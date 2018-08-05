@@ -1,0 +1,12 @@
+{
+  "name": "codefire",
+  "version": "0.0.3",
+  "description": "A Node Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "git repository": "https://github.com/IamSadiq/codefire",  
+  "author": "Abubakr Adam <asiddik5@gmail.com>",
+  "license": "ISC"
+}
