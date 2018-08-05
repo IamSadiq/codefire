@@ -2,7 +2,7 @@ var util = require('util');
 var fire = require('./index.js');
 
 function CodeFire() {
-    this.version = '\n\t\t\t version: 1.0.3';
+    this.version = '\n\t\t\t version: 0.0.3';
 }
 
 CodeFire.prototype.greetings = function(){
