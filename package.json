@@ -2,9 +2,9 @@
   "name": "codefire",
   "version": "0.0.3",
   "description": "A Node Module",
-  "main": "index.js",
+  "main": "codefire.js",
   "scripts": {
-    "test": "index.js"
+    "test": "test.js"
   },
   "git repository": "https://github.com/IamSadiq/codefire",  
   "author": "Abubakr Adam <asiddik5@gmail.com>",
